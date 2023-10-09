@@ -5,18 +5,19 @@
     color: rgb(255, 233, 34);
     font-style: oblique;
     font-weight: bold;
-    font-size: xx-large;
+    font-size: 300%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(26, 9, 33);
+    font-size: 30%;
     background-color: antiquewhite;
 }
 
 #caption {
-    font-size: 10%;
+    font-size: 50%;
     background-color: rgba(255, 228, 196, 0.524);
     font-weight: 200;
     border-color: gray;
