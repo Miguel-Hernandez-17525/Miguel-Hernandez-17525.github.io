@@ -1,9 +1,11 @@
 .title {
-    background-color: lavenderblush;
+    background-color: rgb(111, 2, 2);
     border-radius: 30%;
     text-align: center;
-    color: blueviolet;
+    color: rgb(255, 233, 34);
     font-style: oblique;
+    font-weight: bold;
+    font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
