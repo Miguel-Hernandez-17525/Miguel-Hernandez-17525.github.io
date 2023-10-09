@@ -9,3 +9,19 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(26, 9, 33);
+}
+
+#caption {
+    font-size: 6%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: blueviolet;
+}
