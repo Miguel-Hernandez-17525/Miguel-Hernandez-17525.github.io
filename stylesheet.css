@@ -12,14 +12,20 @@
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(26, 9, 33);
+    background-color: antiquewhite;
 }
 
 #caption {
-    font-size: 6%;
+    font-size: 10%;
+    background-color: rgba(255, 228, 196, 0.524);
+    font-weight: 200;
+    border-color: gray;
 }
 
 a {
     color: black;
+    border-radius: 13%;
+    background-color: rgba(137, 43, 226, 0.413);
 }
 
 a:hover {
